@@ -4,3 +4,4 @@ Gitのれんしゅうをしてきます。
 ・git commit
 ・gir rm
 ・git status
+・git diff
