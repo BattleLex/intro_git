@@ -3,3 +3,4 @@ Gitのれんしゅうをしてきます。
 ・git add
 ・git commit
 ・gir rm
+・git status
